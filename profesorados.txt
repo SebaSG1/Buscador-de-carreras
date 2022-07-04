@@ -1,0 +1,36 @@
+=================================================================================================================
+                       CARRERAS PROFESORADO                                    | DURACION |UNIVERSIDAD/INSTITUTO|
+=================================================================================================================	
+PROFESORADO DE EDUCACION INICIAL                                               |  4 AÑOS  |          UNS        |
+PROFESORADO DE EDUCACION PRIMARIA           				       |  4 AÑOS  |          UNS        |
+PROFESORADO EN CIENCIAS BIOLÓGICAS  					       |  4 AÑOS  |	     UNS        |	
+PROFESORADO EN ECONOMIA 						       |  4 AÑOS  |          UNS        |
+PROFESORADO EN ECONOMIA PARA LA ENSEÑANZA SECUNDARIA 			       |  4 AÑOS  |          UNS        |
+PROFESORADO EN EDUCACION SECUNDARIA EN CIENCIAS DE LA ADMINISTRACION 	       |  4 AÑOS  |          UNS        |
+PROFESORADO EN EDUCACION SECUNDARIA Y SUPERIOR EN CIENCIAS DE LA ADMINISTRACION|  4 AÑOS  |          UNS        |
+PROFESORADO EN FILOSOFIA 						       |  4 AÑOS  |          UNS        |
+PROFESORADO EN FISICA 							       |  4 AÑOS  |          UNS        |	
+PROFESORADO EN GEOCIENCIAS 						       |  4 AÑOS  |          UNS        |	
+PROFESORADO EN GEOGRAFIA 						       |  4 AÑOS  |          UNS        |	
+PROFESORADO EN HISTORIA 						       |  4 AÑOS  |          UNS        |	
+PROFESORADO EN LETRAS 							       |  4 AÑOS  |          UNS        |		
+PROFESORADO EN MATEMATICA 						       |  4 AÑOS  |          UNS        |	
+PROFESORADO EN QUIMICA 							       |  4 AÑOS  |          UNS        |
+PROFESORADO EN QUIMICA DE LA ENSEÑANZA MEDIA 				       |  4 AÑOS  |          UNS        |
+PROFESORADO EN PSICOLOGÍA                                                      |  4 AÑOS  |         JUAN 23     |
+PROFESORADO EN EDUCACIÓN PRIMARIA 					       |  4 AÑOS  |         JUAN 23     |
+PROFESORADO EN INGLES							       |  4 AÑOS  |         JUAN 23     |
+PROFESORADO EN MATEMÁTICAS 						       |  4 AÑOS  |         JUAN 23     |
+PROFESORADO EN FILOSOFÍA						       |  4 AÑOS  |         JUAN 23     |
+PROFESORADO DE EDUCACIÓN SECUNDARIA EN LENGUA Y LITERATURA 		       |  4 AÑOS  |         AVANZA      |
+PROFESORADO DE EDUCACIÓN INICIAL					       |  4 AÑOS  |  	    AVANZA      |
+PROFESORADO DE EDUCACIÓN PRIMARIA					       |  4 AÑOS  |  	    AVANZA      |
+PROFESORADO DE INGLÉS							       |  4 AÑOS  |  	    AVANZA      |
+PROFESORADO DE EDUCACIÓN ESPECIAL					       |  4 AÑOS  |  	    AVANZA      |
+PROFESORADO DE EDUCACIÓN SECUNDARIA EN BIOLOGÍA				       |  4 AÑOS  |	    AVANZA	|
+PROFESORADO DE EDUCACIÓN SECUNDARIA EN HISTORIA				       |  4 AÑOS  |  	    AVANZA      |
+PROFESORADO DE EDUCACIÓN SECUNDARIA EN MATEMÁTICA			       |  4 AÑOS  |         AVANZA      |
+PROFESORADO DE ARTES VISUALES ORIENTACIÓN EN PINTURA / GRABADO / ESCULTURA     |  4 AÑOS  |          ESAV       |
+PROFESORADO DE ARTES VISUALES ORIENTACIÓN DISEÑO GRAFICO		       |  4 AÑOS  |	     ESAV	|	
+PROFESORADO EN ARTES VISUALES ORIENTACIÓN CERÁMICA			       |  4 AÑOS  |          ESAV       |
+=================================================================================================================

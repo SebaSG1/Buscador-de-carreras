@@ -1,0 +1,65 @@
+
+===================================================================================
+                       CARRERAS DE GRADO                  | DURACION | UNIVERSIDAD|
+===================================================================================		
+ABOGACIA              					  |  5 AÑOS  |    UNS     |
+AGRIMENSURA 						  |  5 AÑOS  |    UNS     |
+ARQUITECTURA						  |  5 AÑOS  |    UNS     |
+BIOQUIMICA						  |  5 AÑOS  |    UNS     |
+CONTADOR PUBLICO					  |  5 AÑOS  |    UNS     |
+FARMACIA 						  |  5 AÑOS  |    UNS     |
+INGENIERIA AGRONOMICA 					  |  5 AÑOS  |    UNS     |
+INGENIERIA CIVIL 					  |  5 AÑOS  |    UNS     |
+INGENIERIA DE ALIMENTOS 				  |  5 AÑOS  |    UNS     |
+INGENIERIA ELECTRICISTA 				  |  5 AÑOS  |    UNS     |
+INGENIERIA ELECTRONICA 					  |  5 AÑOS  |    UNS     |
+INGENIERIA EN COMPUTACION 				  |  5 AÑOS  |    UNS     |
+INGENIERIA EN SISTEMAS DE INFORMACION 			  |  5 AÑOS  |    UNS     |
+INGENIERIA MECANICA 					  |  5 AÑOS  |    UNS     |
+INGENIERIA QUIMICA 					  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN ADMINISTRACION 				  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN CIENCIAS AMBIENTALES 			  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN CIENCIAS BIOLOGICAS 			  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN CIENCIAS DE LA COMPUTACION		  |  5 AÑOS  |    UNS     |	
+LICENCIATURA EN CIENCIAS DE LA EDUCACION		  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN CIENCIAS GEOLOGICAS			  |  5 AÑOS  |    UNS     |	
+LICENCIATURA EN ECONOMIA 				  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN ENFERMERIA 				  |  5 AÑOS  |    UNS     |	
+LICENCIATURA EN FILOSOFIA 				  |  5 AÑOS  |    UNS     |	
+LICENCIATURA EN FISICA 					  |  5 AÑOS  |    UNS     |	
+LICENCIATURA EN GEOFISICA  				  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN GESTIÓN UNIVERSITARIA 			  |  5 AÑOS  |    UNS     |	
+LICENCIATURA EN HISTORIA 				  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN LETRAS 					  |  5 AÑOS  |    UNS     |	
+LICENCIATURA EN MATEMATICA 				  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN OCEANOGRAFIA 				  |  5 AÑOS  |    UNS     | 	
+LICENCIATURA EN OPTICA Y CONTACTOLOGÍA			  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN QUIMICA 				  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN SEGURIDAD PÚBLICA 			  |  5 AÑOS  |    UNS     |
+LICENCIATURA EN TURISMO 				  |  5 AÑOS  |    UNS     |
+MEDICINA 						  |  5 AÑOS  |    UNS     |
+INGENIERIA CIVIL 					  |  6 AÑOS  |    UTN     |
+INGENIERIA ELECTRONICA 					  |  6 AÑOS  |    UTN     | 
+LICENCIATURA EN ORGANIZACION INDUSTRIAL 		  |  4 AÑOS  |    UTN     |
+INGENIERIA ELECTRICA 					  |  5 AÑOS  |    UTN     |
+INGENIERIA MECANICA 					  |  5 AÑOS  |    UTN     |
+LICENCIATURA EN ADMINISTRACION 				  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN DISEÑO DE INDUMENTARIA TEXTIL		  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN COMERCIALIZACION Y MARKETING 		  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN COMERCIO INTERNACIONAL 			  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN DISEÑO INDUSTRIAL 			  |  4 AÑOS  |   SIGLO 21 |
+CONTADOR/A PUBLICO 					  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN DISEÑO GRAFICO 			 	  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN DISEÑO Y ANIMACION DIGITAL 		  |  4 AÑOS  |   SIGLO 21 |
+INGENIERIA EN INNOVACION Y DESARROLLO 		 	  |  5 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN RELACIONES PUBLICAS E INSTITUCIONALES     |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN GESTION DE RECURSOS HUMANOS               |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN PSICOLOGIA                                |  4 AÑOS  |   SIGLO 21 |
+ABOGACIA                                                  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN ADMINISTRACION AGRARIA 			  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN RELACIONES INTERNACIONALES 		  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN PUBLICIDAD EN PUBLICIDAD 		  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN KINESIOLOGIA Y FISIOTERAPIA 		  |  4 AÑOS  |   SIGLO 21 |
+LICENCIATURA EN NUTRICION 				  |  4 AÑOS  |   SIGLO 21 |
+===================================================================================
+LICENCIATURA EN CINE

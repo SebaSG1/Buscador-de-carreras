@@ -1,0 +1,101 @@
+
+==========================================================================================================================
+                                   CARRERAS MODALIDAD PRESENCIAL                               | DURACION|  UNIVERSIDAD  |
+==========================================================================================================================		
+ABOGACIA              					  				       | 5 AÑOS  |      UNS      |
+AGRIMENSURA 						  				       | 5 AÑOS  |      UNS      |
+ARQUITECTURA						  				       | 5 AÑOS  |      UNS      |
+BIOQUIMICA						  				       | 5 AÑOS  |      UNS      |
+CONTADOR PUBLICO					  				       | 5 AÑOS  |      UNS      |
+FARMACIA 						  				       | 5 AÑOS  |      UNS      |
+INGENIERIA AGRONOMICA 					  				       | 5 AÑOS  |      UNS      |
+INGENIERIA CIVIL 					  				       | 5 AÑOS  |      UNS      |
+INGENIERIA DE ALIMENTOS 				  				       | 5 AÑOS  |      UNS      |
+INGENIERIA ELECTRICISTA 				  				       | 5 AÑOS  |      UNS      |
+INGENIERIA ELECTRONICA 					  				       | 5 AÑOS  |      UNS      |
+INGENIERIA EN COMPUTACION 				  				       | 5 AÑOS  |      UNS      |
+INGENIERIA EN SISTEMAS DE INFORMACION 			  				       | 5 AÑOS  |      UNS      |
+INGENIERIA MECANICA 					  				       | 5 AÑOS  |      UNS      |
+INGENIERIA QUIMICA 					  				       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN ADMINISTRACION 				  				       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN CIENCIAS AMBIENTALES 			  				       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN CIENCIAS BIOLOGICAS 			  				       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN CIENCIAS DE LA COMPUTACION		  				       | 5 AÑOS  |      UNS      |	
+LICENCIATURA EN CIENCIAS DE LA EDUCACION		  				       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN CIENCIAS GEOLOGICAS			  				       | 5 AÑOS  |      UNS      |	
+LICENCIATURA EN ECONOMIA 				  				       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN ENFERMERIA 				  				       | 5 AÑOS  |      UNS      |	
+LICENCIATURA EN FILOSOFIA 				  				       | 5 AÑOS  |      UNS      |	
+LICENCIATURA EN FISICA 					 				       | 5 AÑOS  |      UNS      |	
+LICENCIATURA EN GEOFISICA  				  				       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN GESTIÓN UNIVERSITARIA 			  				       | 5 AÑOS  |      UNS      |	
+LICENCIATURA EN HISTORIA 				  			               | 5 AÑOS  |      UNS      |
+LICENCIATURA EN LETRAS 					  				       | 5 AÑOS  |      UNS      |	
+LICENCIATURA EN MATEMATICA 				  				       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN OCEANOGRAFIA 				  				       | 5 AÑOS  |      UNS      | 	
+LICENCIATURA EN OPTICA Y CONTACTOLOGÍA			  		  		       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN QUIMICA 				  				       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN SEGURIDAD PÚBLICA 			 				       | 5 AÑOS  |      UNS      |
+LICENCIATURA EN TURISMO 				  				       | 5 AÑOS  |      UNS      |
+MEDICINA 						  				       | 5 AÑOS  |      UNS      |
+PROFESORADO DE EDUCACION INICIAL                                                    	       | 4 AÑOS  |      UNS      |
+PROFESORADO DE EDUCACION PRIMARIA           				       		       | 4 AÑOS  |      UNS      |
+PROFESORADO EN CIENCIAS BIOLÓGICAS  					       		       | 4 AÑOS  |	UNS      |	
+PROFESORADO EN ECONOMIA 						       		       | 4 AÑOS  |      UNS      |
+PROFESORADO EN ECONOMIA PARA LA ENSEÑANZA SECUNDARIA 			       		       | 4 AÑOS  |      UNS      |
+PROFESORADO EN EDUCACION SECUNDARIA EN CIENCIAS DE LA ADMINISTRACION 	       		       | 4 AÑOS  |      UNS      |
+PROFESORADO EN EDUCACION SECUNDARIA Y SUPERIOR EN CIENCIAS DE LA ADMINISTRACION		       | 4 AÑOS  |      UNS      |
+PROFESORADO EN FILOSOFIA 						       		       | 4 AÑOS  |      UNS      |
+PROFESORADO EN FISICA 							       		       | 4 AÑOS  |      UNS      |	
+PROFESORADO EN GEOCIENCIAS 						       		       | 4 AÑOS  |      UNS      |	
+PROFESORADO EN GEOGRAFIA 						       		       | 4 AÑOS  |      UNS      |	
+PROFESORADO EN HISTORIA 						       		       | 4 AÑOS  |      UNS      |	
+PROFESORADO EN LETRAS 							       	 	       | 4 AÑOS  |      UNS      |		
+PROFESORADO EN MATEMATICA 						       		       | 4 AÑOS  |      UNS      |	
+PROFESORADO EN QUIMICA 							       		       | 4 AÑOS  |      UNS      |
+PROFESORADO EN QUIMICA DE LA ENSEÑANZA MEDIA 				       		       | 4 AÑOS  |      UNS      |
+PROFESORADO EN PSICOLOGÍA                                                      		       | 4 AÑOS  |     JUAN 23   |
+PROFESORADO EN EDUCACIÓN PRIMARIA 					       		       | 4 AÑOS  |     JUAN 23   |
+PROFESORADO EN INGLES							       		       | 4 AÑOS  |     JUAN 23   |
+PROFESORADO EN MATEMÁTICAS 						       		       | 4 AÑOS  |     JUAN 23   |
+PROFESORADO EN FILOSOFÍA						       		       | 4 AÑOS  |     JUAN 23   |
+PROFESORADO DE EDUCACIÓN SECUNDARIA EN LENGUA Y LITERATURA 		       		       | 4 AÑOS  |     AVANZA    |
+PROFESORADO DE EDUCACIÓN INICIAL					       		       | 4 AÑOS  |     AVANZA    |
+PROFESORADO DE EDUCACIÓN PRIMARIA					         	       | 4 AÑOS  |     AVANZA    |
+PROFESORADO DE INGLÉS							      		       | 4 AÑOS  |     AVANZA    |
+PROFESORADO DE EDUCACIÓN ESPECIAL					        	       | 4 AÑOS  |     AVANZA    |
+PROFESORADO DE EDUCACIÓN SECUNDARIA EN BIOLOGÍA				       		       | 4 AÑOS  |     AVANZA	 |
+PROFESORADO DE EDUCACIÓN SECUNDARIA EN HISTORIA				       		       | 4 AÑOS  |     AVANZA    |
+PROFESORADO DE EDUCACIÓN SECUNDARIA EN MATEMÁTICA			       		       | 4 AÑOS  |     AVANZA    |
+PROFESORADO DE ARTES VISUALES ORIENTACIÓN EN PINTURA / GRABADO / ESCULTURA     		       | 4 AÑOS  |      ESAV     |
+PROFESORADO DE ARTES VISUALES ORIENTACIÓN DISEÑO GRAFICO		                       | 4 AÑOS  |	ESAV     |	
+TECNICATURA SUPERIOR AGRARIA EN SUELOS Y AGUAS                                                 | 4 AÑOS  | 	UNS	 |
+TECNICATURA SUPERIOR EN ADMINISTRACION Y GESTION DE RECURSOS PARA INSTITUCIONES UNIVERSITARIAS | 3 AÑOS  |      UNS      |
+TECNICATURA UNIVERSITARIA APICOLA 							       | 3 AÑOS  |  	UNS   	 |
+TECNICATURA UNIVERSITARIA EN ACOMPAÑAMIENTO TERAPÉUTICO 				       | 3 AÑOS  | 	UNS 	 |
+TECNICATURA UNIVERSITARIA EN CARTOGRAFIA, TELEDETECCION Y SISTEMAS DE INFORMACION GEOGRAFICA   | 3 AÑOS  | 	UNS	 |
+TECNICATURA UNIVERSITARIA EN ECONOMÍA Y GESTIÓN DE EMPRESAS ALIMENTARIAS 		       | 3 AÑOS  | 	UNS      |
+TECNICATURA UNIVERSITARIA EN MEDIO AMBIENTE        					       | 3 AÑOS  |      UNS	 |
+TECNICATURA UNIVERSITARIA EN OPERACIONES INDUSTRIALES 					       | 3 AÑOS  | 	UNS	 |
+TECNICATURA UNIVERSITARIA EN OPTICA							       | 3 AÑOS  |      UNS      |
+TECNICATURA UNIVERSITARIA EN PARQUES Y JARDINES        					       | 3 AÑOS  | 	UNS	 |
+TECNICATURA UNIVERSITARIA EN SISTEMAS ELECTRÓNICOS INDUSTRIALES INTELIGENTES  		       | 3 AÑOS  | 	UNS	 |
+TECNICATURA UNIVERSITARIA EN PROGRAMACIÓN						       | 3 AÑOS  |  	UTN  	 |
+TECNICATURA UNIVERSITARIA EN MANTENIMIENTO INDUSTRIAL					       | 3 AÑOS  |  	UTN 	 |
+TECNICATURA SUPERIOR EN GESTIÓN AMBIENTAL Y SALUD					       | 3 AÑOS  |     JUAN 23   |
+TECNICATURA SUPERIOR EN AUTOMATIZACIÓN Y CONTROL					       | 3 AÑOS  |     JUAN 23	 |
+TECNICATURA EN DISEÑO GRAFICO								       | 3 AÑOS  | 	ESAV     |
+TECNICATURA EN ILUSTRACIÓN								       | 3 AÑOS  |  	ESAV     |
+TECNICATURA SUPERIOR EN REALIZADOR DE ARTES VISUALES					       | 3 AÑOS  |  	ESAV	 |
+TECNICATURA SUPERIOR EN CERÁMICA							       | 3 AÑOS  |  	ESAV	 |
+TECNICATURA SUPERIOR EN TRADUCTORADO TECNICO-CIENTIFICO EN LENGUA INGLESA	               | 3 AÑOS  |     GOYENA	 |
+TECNICO SUPERIOR EN SERVICIOS GASTRONOMICOS Y CERTIFICACION DE CHEF			       | 3 AÑOS  |     GOYENA	 |
+TECNICATURA SUPERIOR EN PRODUCCION AGRICOLA GRANADERA					       | 3 AÑOS  |     GOYENA	 |
+ANESTESIOLOGIA										       | 3 AÑOS  |     GOYENA	 |
+TECNICO SUPERIOR EN AUTOMATIZACION Y CONTROL						       | 3 AÑOS  |     GOYENA	 |
+TECNICO SUPERIOR EN ESTERILIZACION							       | 3 AÑOS  |     GOYENA	 |
+PROTESICO DENTAL DE LABORATORIO								       | 3 AÑOS  |     GOYENA	 |
+TECNICO SUPERIOR EN ESCENA DEL CRIMEN							       | 3 AÑOS  |     GOYENA    |
+TECNICO SUPERIOR EN HIGIENE Y SEGURIDAD EN EL TRABAJO					       | 3 AÑOS  |     GOYENA    |
+TECNICO SUPERIOR EN HEMOTERAPIATECNOLOGO EN SALUD CON ESPECIALIDAD EN CARDIOLOGIA	       | 3 AÑOS  |     GOYENA    |
+==========================================================================================================================

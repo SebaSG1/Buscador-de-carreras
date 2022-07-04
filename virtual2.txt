@@ -1,0 +1,35 @@
+=============================================================================================================
+                                     CARRERAS MODALIDAD VIRTUAL                     | DURACION | UNIVERSIDAD|
+=============================================================================================================
+LICENCIATURA EN ADMINISTRACION                                                      |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN COMERCIALIZACION Y MARKETING                                        |  4 AŃOS  |  SIGLO 21  |
+LICENCIATURA EN CRIMINOLOGIA Y SEGURIDAD                                            |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN ADMINISTRACION PUBLICA                                              |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN COMERCIO INTERNACIONAL                                              |  4 AÑOS  |  SIGLO 21  |
+CONTADOR/A PUBLICO                                                                  |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN DISEÑO Y ANIMACION DIGITAL                                          |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN RELACIONES PUBLICAS E INSTITUCIONALES                               |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN GESTION DE RECURSOS HUMANOS                                         |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN HIGIENE, SEGURIDAD Y MEDIO AMBIENTE DEL TRABAJO                     |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN PERIODISMO                                                          |  4 AŃOS  |  SIGLO 21  |
+LICENCIATURA EN MATEMATICA                                                          |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN CIENCIA DE DATOS                                                    |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN ANTROPOLOGIA ORGANIZACIONAL                                         |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN ADMINISTRACION DE INFRAESTRUCTURA TECNOLOGICA                       |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN CIENCIA POLITICA Y GOBIERNO                                         |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN GESTION AMBIENTAL                                                   |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN ADMINISTRACION HOTELERA                                             |  4 AÑOS  |  SIGLO 21  |
+ABOGACIA                                                                            |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN INTELIGENCIA ARTIFICIAL Y ROBOTICA                                  |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN SEGURIDAD INFORMATICA                                               |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN ADMINISTRACION AGRARIA                                              |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN GERONTOLOGIA                                                        |  2 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN RELACIONES INTERNACIONALES                                          |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN LOGISTICA GLOBAL                                                    |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN PUBLICIDAD 							    |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN EDUCACION   							    |  2 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN GESTION TURISTICA 						    |  4 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN INFORMATICA 							    |  5 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN EMPRENDIMIENTO							    |  2 AÑOS  |  SIGLO 21  |
+LICENCIATURA EN TERAPIA OCUPACIONAL Y DESARROLLO HUMANO 			    |  4 AÑOS  |  SIGLO 21  |
+=============================================================================================================
